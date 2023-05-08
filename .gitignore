@@ -1,6 +1,8 @@
 # IntelliJ project files
 .idea
+.idea/*
 *.iml
 venv
 out
 gen
+.DS_Store
